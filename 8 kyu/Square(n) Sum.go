@@ -1,6 +1,6 @@
-//problem 			: https://www.codewars.com/kata/515e271a311df0350d00000f/train/go
+//problem : https://www.codewars.com/kata/515e271a311df0350d00000f/train/go
 
-//Best pratices  	: https://www.codewars.com/kata/reviews/5d82854b15a9070001e404df/groups/5e077bf78c89df0001d86657
+//Best pratices : https://www.codewars.com/kata/reviews/5d82854b15a9070001e404df/groups/5e077bf78c89df0001d86657
 package main
 
 import "fmt"
