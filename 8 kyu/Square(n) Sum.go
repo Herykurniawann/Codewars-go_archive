@@ -6,7 +6,7 @@ package main
 import "fmt"
 
 func main() {
-	//fmt.Println(math.Pow(2, 2))
+	//Testing
 	var balance = []int{1, 2, 2}
 	fmt.Println(SquareSum(balance))
 }
